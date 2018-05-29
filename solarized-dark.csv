@@ -1,0 +1,446 @@
+key,solarized-dark,*description
+,,
+********* Basic **********,,
+background_color,#04272f,
+scrollbar_width,4,滚动条宽度
+scrollbar_background_color,#,滚动条背景色
+scrollbar_thumb_color,#031d23,滚动条拖动块的颜色
+,,
+splitter_divider_color,#001217,
+splitter_divider_color1,#001217,
+splitter_divider_color2,#001217,
+splitter_divider_color3,#001b23,
+splitter_divider_color4,#001217,
+,,
+label_font_color,#839496,
+,,
+text_input_selected_font_color,#FFFF00,
+text_input_selected_background_color,#495E65,
+text_input_placeholder_font_color,#859699,
+,,
+button_font_color,#839496,button 类型元素的文字颜色
+,,
+option_font_color,#839496,下拉选择元素的文字颜色
+option_arrow_font_color,#9db1b4,下拉选择箭头的文字颜色
+,,
+checkbox_font_color,#839496,勾选类型元素的文字颜色
+,,
+collection_background_color,#021b20,
+collection_item_font_color,#839496,
+collection_item_selected_font_color,#839496,
+collection_item_selected_border_color,#001217,
+collection_item_selected_background_color,#04272f,
+,,
+textarea_background_color,#042e38,
+textarea_border_color,#9db1b4,
+textarea_font_color,#839496,
+textarea_placeholder_font_color,#859699,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+********* Tray Button **********,,
+tray_button_border_color,#666666,
+tray_button_font_color,#A16E3A,
+tray_button_background_color,#,
+,,
+,,
+********* Panel Window **********,,
+panel_titlebar_background_color,#021b20,
+panel_background_color,#042e38,
+panel_text_input_font_family,Monaco,
+panel_text_input_font_size,13,
+panel_text_input_font_color,#dddddd,
+panel_text_input_border_radius,5,
+panel_text_input_border_color,#9db1b4,
+panel_text_input_background,#,
+panel_text_input_padding_left,10,
+panel_text_input_padding_right,10,
+panel_text_input_cursor_color,#56A6ED,
+,,
+panel_label_font_family,,
+panel_label_font_size,12,
+panel_label_font_color,#9db1b4,
+panel_label_background_color,#,
+panel_label_padding,,
+,,
+panel_button_font_family,,
+panel_button_font_size,12,
+panel_button_font_color,#dddddd,
+panel_button_arrow_font_color,#dddddd,
+panel_button_background_color,#238585,
+,,
+panel_slider_background_color,#031d23,滑动条的背景色
+panel_slider_active_background_color,#032c36,滑动条可用区域的背景色
+panel_slider_knob_background_color,#839496,滑动条圆形拖动块的背景色
+panel_slider_knob_border_color,#9db1b4,滑动条圆形拖动块的边框色
+,,
+panel_tab_background_color,#021b20,Tab区域的背景色
+panel_tab_segment_split_line_color,#001b21,Tab头部栏中的分割线条颜色
+,,
+******** Window *********,,
+titlebar_height,40,titlebar 的高度
+titlebar_background_color,#042127,titlebar 的背景色
+titlebar_border_color,#022329,titlebar 中出现的边框（比如分割）其颜色
+titlebar_segment_font_color,#839496,titlebar 中图标的颜色
+titlebar_segment_selected_font_color,#032c36,titlebar 中图标选中状态的颜色
+titlebar_segment_hovered_font_color,#032c36,titlebar 中图标鼠标经过时的颜色
+titlebar_label_font_color,#839496,titlebar 上普通文本的颜色， 比如标题名、words计算的显示
+,,
+,,
+,,
+,,
+****** Tab 栏******,,
+tab_segments_background_color,#,"Tab栏的整体背景色, 一般保持透明  #171D21"
+tab_segment_y_offset,2,正数代表文字向下偏移
+tab_segment_drag_y_offset,15,"从上开始数, 表示 这个区域内的实际上不能 drag ,一般是空出来给窗口移动用的"
+tab_segment_font_family,Helvetica,Tab栏上的字体名称
+tab_segment_font_size,12,Tab栏上的字体大小
+tab_segment_font_color,#464f51,Tab栏上的字体颜色
+tab_segment_hovered_font_color,#a3b9bb,鼠标悬浮时的字体颜色
+tab_segment_selected_font_color,#a3b9bb,当前Tab选中状态时的字体颜色
+tab_segment_body_background_color,#011216,有效区域的背景色，只有在拖动的时候才能透出来
+tab_segment_split_line_color,#001b21,分割线颜色
+tab_segment_background_color,#052931,元素的背景色
+tab_segment_selected_background_color,#052931,元素选中时的背景色
+tab_segment_selected_border_color,#E06C75,元素选中时的边框颜色
+tab_segment_selected_border_type,top,元素选中时的边框类型 top or bottom
+tab_segment_selected_border_size,2,选中时候的边框大小
+,,
+tab_segment_close_button_font_color,#626f70,关闭按钮的字体颜色
+tab_segment_close_button_hovered_font_color,#839496,鼠标悬浮于关闭按钮时的字体颜色
+,,
+,,
+,,
+,,
+,,
+********** Main Editor *****,,
+editor_max_body_width,720,编辑区域主体的最大宽度
+editor_fullscreen_max_body_width,960,全屏时，编辑区域主体的最大宽度
+editor_font_size,14,字体大小
+editor_fullscreen_font_size,16,全屏时，字体大小
+editor_font_family,Monaco,字体名称
+editor_font_color,#A1ACAB,字体颜色
+editor_fullscreen_font_family,Monaco,全屏时的字体名称
+editor_placeholder_font_size,18,无内容时placeholder的字体大小
+editor_placeholder_font_family,Helvetica,无内容时placeholder的字体名称
+editor_placeholder_font_color,#9db1b4,无内容时placeholder的字体颜色
+editor_background_color,#00323E,编辑区域的背景色
+editor_selected_font_color,#,选中时候的字体颜色
+editor_selected_background_color,#495E65,选中时候的背景色
+editor_current_line_background_color,#002732,当前行的背景色
+editor_cursor_width,2,光标的宽度
+editor_cursor_color,#16b0ff,光标的颜色
+editor_line_height,2.3,行高
+editor_scrollbar_width,4,滚动条宽度
+editor_scrollbar_background_color,#,滚动条背景色
+editor_scrollbar_thumb_color,#c4c4c4,滚动条拖动块的颜色
+,,
+,,
+,,
+********Line Numbers********,,
+line_numbers_padding,10,左右留空距离
+line_numbers_background_color,#003543,整体的背景色
+line_numbers_line_color,#001b23,边框颜色
+line_numbers_line_number_color,#a3b9bb,数字的颜色
+line_numbers_font_family,Menlo,字体名称
+line_numbers_font_size,12,字体大小
+,,
+,,
+***** Markdown Bar ****,,Editor主体左侧， 对 Markdown一些节点的标记
+markdown_marker_blockquote_marker,|,引用块第一行的标注字符
+markdown_marker_blockquote_font_family,Times,引用块第一行的标注字体
+markdown_marker_blockquote_font_size,30,引用块第一行的标注字体大小
+markdown_marker_blockquote_font_color,#61AFEF,引用块第一行的标注字体色
+markdown_marker_blockquote_y_offset,-4,往上偏移量，看起来更像在顶部的感觉
+markdown_marker_blockquote_border_width,2,引用块标注的边框大小
+markdown_marker_blockquote_border_color,#,引用块标注的边框颜色
+markdown_marker_header_marker,H,H1~H6标注的字符
+markdown_marker_header_font_family,Times,H1~H6标注的字体
+markdown_marker_header_font_size,14,H1~H6标注的字体大小
+markdown_marker_header_font_color,#c4dee1,H1~H6标注的字体色
+markdown_marker_header_level_font_family,Times,H1~H6标注中数字的字体
+markdown_marker_header_level_font_size,8,H1~H6标注中数字的字体大小
+markdown_marker_header_level_font_color,#c4dee1,H1~H6标注中数字的字体色
+,,
+,,
+********* Editor Toc View ******,,
+toc_item_height,20,单元素高度
+toc_padding_left,6,左边距
+toc_padding_right,6,右边距
+toc_background_color,#04272f,整体的背景色
+toc_selected_background_color,#00323E,选中元素的背景色
+toc_font_family,Helvetica,字体名称
+toc_font_size,11,字体大小
+toc_pound_sign_font_size,9,#符的字体大小
+toc_pound_sign_margin_right,5,#符右侧间距
+toc_font_color,#9db1b4,字体颜色
+toc_selected_font_color,#839496,选中状态的字体颜色
+toc_pound_sign_font_color,#2aa198,toc中#符的文字色
+toc_selected_pound_sign_font_color,#E06C75,选中状态#符的文字色
+toc_line_color,#001217,线条的颜色
+toc_item_border_color,#001217,元素的边框色
+,,
+,,
+************ Quick Note Window ********,,
+quick_note_background_color,#021b20,背景色
+quick_note_button_selected_font_color,#032c36,QuickNote 窗口上按钮出于选中状态时的颜色
+quick_note_text_input_font_color,#839496,文件名输入框内文字的颜色
+quick_note_text_input_error_font_color,#ff0000,如果文件名不允许，输入框内文字的颜色
+,,
+,,
+************ File Manager ********,,
+file_manager_padding_left,10,
+file_manager_padding_right,15,
+file_manager_item_height,45,
+file_manager_background_color,#042127,
+file_manager_selected_background_color,#00323E,
+file_manager_selected_font_color,#839496,
+file_manager_selected_border_width,3,选中状态时左侧的边框高亮
+file_manager_selected_border_color,#022933,选中状态时左侧的边框高亮的颜色
+file_manager_font_color,#9db1b4,
+file_manager_font_size,12,
+file_manager_font_family,Helvetica,
+file_manager_line_color,#001b21,
+file_manager_item_border_color,#001b21,
+file_manager_button_font_color,#758587,“设置根目录”、自动同步 按钮的（字体）颜色
+,,
+### icons in file manager,,
+file_manager_image_icon_size,14,
+file_manager_image_icon_margin_right,3,
+file_manager_icon_margin_right,4,
+file_manager_icon_font_family,Ionicons,
+file_manager_icon_font_size,12,
+file_manager_icon_color,#9db1b4,
+file_manager_icon_selected_color,#839496,
+file_manager_root_folder_icon,,
+file_manager_opened_folder_icon,,
+file_manager_folder_icon,,
+file_manager_document_icon,,
+file_manager_image_icon,,
+file_manager_arrow_font_family,Ionicons,
+file_manager_arrow_font_size,10,
+file_manager_arrow_color,#9db1b4,
+file_manager_arrow_selected_color,#839496,
+file_manager_arrow_margin_right,8,
+file_manager_right_arrow_icon,,
+file_manager_right_arrow_x_offset,,
+file_manager_down_arrow_icon,,下箭头
+file_manager_down_arrow_x_offset,-2,"因为 icon 本身, 如果不偏移, 看起来视觉上是偏移的..."
+,,
+,,
+************ File Children Manager ********,,
+file_children_manager_padding_left,10,
+file_children_manager_padding_right,10,
+file_children_manager_item_height,45,
+file_children_manager_background_color,#03252c,
+file_children_manager_selected_background_color,#00323E,
+file_children_manager_selected_font_color,#839496,
+file_children_manager_selected_border_width,3,选中状态时左侧的边框高亮
+file_children_manager_selected_border_color,#022933,选中状态时左侧的边框高亮的颜色
+file_children_manager_font_color,#9db1b4,
+file_children_manager_font_size,12,
+file_children_manager_font_family,Helvetica,
+file_children_manager_line_color,#efefef,
+file_children_manager_item_border_color,#001b21,
+### summary in list,,
+file_children_manager_summary_line_height,18,摘要列表的文字行高（单行）
+file_children_manager_summary_font_size,11,摘要列表的文字大小
+file_children_manager_summary_font_color,#383f40,摘要列表文字颜色
+file_children_manager_summary_selected_font_color,#707e80,选中状态下的文字颜色
+file_children_manager_summary_margin_top,-8,顶部 Margin， 负数表示向上偏移
+file_children_manager_summary_margin_bottom,5,底部 Margin
+,,
+,,
+### icons in file children manager,,
+file_children_manager_image_icon_size,14,
+file_children_manager_image_icon_margin_right,3,
+file_children_manager_icon_margin_right,4,
+file_children_manager_icon_font_family,Ionicons,
+file_children_manager_icon_font_size,12,
+file_children_manager_icon_color,#9db1b4,
+file_children_manager_icon_selected_color,#839496,
+file_children_manager_document_icon,,
+file_children_manager_image_icon,,
+###  Search Bar for FileManager,,
+search_bar_background_color,#022127,
+search_bar_input_area_border_radius,8,
+search_bar_input_area_border_color,#defaff,
+search_bar_text_input_font_color,#839496,
+search_bar_text_input_background,#,
+search_bar_text_input_padding_left,10,
+search_bar_text_input_padding_right,10,
+search_bar_text_input_cursor_color,#032c36,
+search_bar_search_button_font_color,#758587,搜索按钮的（文字）颜色
+search_bar_new_file_button_font_color,#758587,新建文档的（文字）颜色
+search_bar_scope_button_font_color,#9db1b4,设定搜索范围按钮的（文字）颜色
+,,
+,,
+************ Image Manager ********,,
+image_manager_titlebar_background_color,#021b20,图片管理器窗口标题栏背景色
+image_manager_background_color,#042e38,
+image_manager_item_show_text,False,是否显示图片名字
+image_manager_item_width,180,单个元素的宽
+image_manager_item_height,120,单个元素的高
+image_manager_item_padding_top,10,item 的顶部 padding
+image_manager_item_padding_bottom,10,item  的底部 padding
+image_manager_item_padding_left,10,item  的左侧 padding
+image_manager_item_padding_right,10,item  的右侧 padding
+image_manager_item_font_family,,item  内的文本字体名称
+image_manager_item_font_size,12,item  内的字体大小
+image_manager_item_font_color,#9db1b4,item  内的文字颜色
+image_manager_item_background_color,#,item 的背景色
+image_manager_item_border_width,0,item 的边框大小
+image_manager_item_border_padding,2,item 的边框 内padding
+image_manager_item_border_radius,5,item 的边框 radius
+image_manager_item_border_color,#,item 的边框颜色
+image_manager_item_selected_font_color,#839496,选中状态下的文本颜色
+image_manager_item_selected_border_width,1,选中状态下的边框大小
+image_manager_item_selected_border_color,#9db1b4,选中状态下的边框颜色
+image_manager_item_selected_background_color,#ffd2d2,选中状态下的 item 的背景景色
+,,
+image_manager_open_button_padding_h,15,
+image_manager_open_button_font_color,#555555,
+image_manager_open_button_arrow_font_color,#888888,
+image_manager_choose_button_font_color,#555555,
+image_manager_choose_button_padding_h,15,
+,,
+********** History Versions *****,,
+history_split_line_color,#cccccc,分割线条颜色
+,,
+history_tree_item_height,40,version list 中， 每个 version item 的高度
+history_tree_background_color,#fefefe,history 栏的背景色
+history_tree_selected_background_color,#008AE2,选中状态下的背景色
+history_tree_font_family,Helvetica,version list 中字体名称
+history_tree_font_size,11,version  list 中字体大小
+history_tree_font_color,#333333,version list 中字体颜色
+history_tree_selected_font_color,#ffffff,选中状态下的字体颜色
+history_tree_item_border_color,#dddddd,version item 的边框颜色
+,,
+history_normal_font_color,#333333,正常文本的颜色
+history_added_line_font_color,#0D7610,对比为新添加的文字的颜色
+history_added_line_background_color,#B4FEB2,对比为新添加的文字的背景色
+history_deleted_line_font_color,#B5050E,对比为删除的文字的颜色
+history_deleted_line_background_color,#FFEEEE,对比为删除的文字的背景色
+,,
+history_textarea_font_family,,文本区域的字体
+history_textarea_font_size,13,文本区域的文字大小
+history_textarea_line_height,2.1,文本区域的文字行高
+,,
+,,
+,,
+********** Markdown HighLighter *****,,
+highlight_header_font_color,#2aa198,H1~H6的字体颜色
+highlight_header_font_size_rate,1.0,H1~H6的字体大小相对于普通字体的倍率
+highlight_header_font_family,Heiti SC,H1~H6的字体名称
+highlight_bold_font_color,#118c63,粗体文字颜色
+highlight_italic_font_color,#e8ff24,斜体文字颜色
+highlight_deleted_font_color,#bcd5d8,删除线包围的文字颜色
+highlight_quote_sign_font_color,#2794D6,引用标记符的字体颜色
+highlight_quote_font_color,#b1b1b1,引用块内文字的颜色
+highlight_list_sign_font_color,#D1551A,列表项标记符的字体颜色
+highlight_list_font_color,#839496,列表项的字体颜色
+highlight_todo_undone_font_color,#ffe8e2,todo项未做状态的字体颜色
+highlight_todo_done_font_color,#c7c7c7,todo项已做状态的字体颜色
+highlight_code_font_color,#98C379,代码块的字体颜色
+highlight_link_font_color,#2794D6,链接语法的文字颜色
+highlight_link_background_color,#,链接语法的背景色
+highlight_link_alt_font_color,#AA8B07,链接语法中 alt 属性的文字颜色
+highlight_link_refer_font_color,#ff0000,
+highlight_image_font_color,#B8437D,插入图片语法的文字颜色
+highlight_image_src_font_color,#839496,图片语法中图片源地址的文字颜色
+highlight_image_background_color,#,图片语法的背景色
+highlight_markup_font_color,#c7c7c7,规则补充的文字颜色，比如 [red 120%]，意味着非真实(标注）内容，
+highlight_footnote_font_color,#ead3d3,脚注文字颜色
+highlight_comment_font_color,#ffffff,注释语法的文字颜色
+highlight_split_line_font_color,#657b83,分割线语法
+highlight_unfocused_font_color,#ffffff,Focus 模式下， 非当前行失焦的文字颜色
+,,
+,,
+************ for Previewer HTML********,,
+html_bold_font_color,#F9AB2C,
+,,
+html_pre_background_color,"rgba(235,235,235,0.35)",
+html_line_color,"rgba(205,205,205,0.35)",
+html_block_background_color,"rgba(235,235,235,0.35)",
+,,
+# 代码块,,
+html_code_line_color,"rgba(205,205,205,0.35)",
+html_code_background_color,#073642,
+html_table_border_color,"rgba(205,205,205,0.35)",
+html_table_odd_background_color,"rgba(235,235,235,0.2)",
+html_strong_weight,bold,
+,,
+# 流程图,,
+html_flow_font_color,#996633,HTML输出流程图的文字颜色
+html_flow_line_color,#666666,HTML输出流程图的线条颜色
+html_flow_line_width,2,HTML输出流程图的线条尺寸
+,,
+,,
+,,
+,,
+,,
+************ Highlight for Code ********,,
+code_background_color,#000000,
+code_highlight_color,#ffffcc,
+code_text,#A16E3A,
+code_white_space,#bbbbbb,
+code_comment,#666666,
+code_comment_preproc,#1e889b,
+code_comment_special,#8B008B bold,
+code_string,#CD5555,
+code_string_heredoc,#1c7e71 italic,
+code_string_other,#cb6c20,
+code_string_regex,#1c7e71,
+code_string_escape,#ae81ff,
+code_number,#B452CD,
+code_operator,#A16E3A,
+code_operator_word,#8B008B,
+code_punctuation,#A16E3A,
+code_keyword,#8B008B bold,
+code_keyword_namespace,#8B008B,
+code_keyword_type,#a7a7a7,
+code_name,#A16E3A,
+code_name_class,#008b45 bold,
+code_name_exception,#008b45 bold,
+code_name_function,#008b45,
+code_name_namespace,#008b45,
+code_name_variable,#00688B,
+code_name_constant,#00688B,
+code_name_decorator,#707a7c,
+code_name_tag,#8B008B bold,
+code_name_attribute,#658b00,
+code_name_builtin,#658b00,
+code_name_other,#A16E3A,
+code_generic_heading,bold #000080,
+code_generic_subheading,bold #800080,
+code_generic_deleted,#aa0000,
+code_generic_inserted,#00aa00,
+code_generic_error,#aa0000,
+code_generic_emph,italic,
+code_generic_strong,bold,
+code_generic_prompt,#A16E3A,
+code_generic_output,#888888,
+code_generic_traceback,#aa0000,
+code_literal,#ae81ff,
+code_literal_date,#e6db74,
+code_error,bg:#e3d2d2 #a61717,
+,,
+,,
+************ Word Mark Background ********,,
+background_color_for_keyword,#ffff00,（搜索）关键词标注
+background_color_for_word_c,#f7d960,连词标注背景色
+background_color_for_word_r,#e8afab,代词标注背景色
+background_color_for_word_n,#d6f49f,名词标注背景色
+background_color_for_word_v,#87d4dd,动词标注背景色
+background_color_for_word_a,#7bd87b,形容词标注背景色
+background_color_for_word_d,#ed638c,副词标注背景色
+,,
+,,
+,,
+,,
