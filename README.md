@@ -4,10 +4,10 @@
 ![preview-full](./preview-full.png)
 
 
-![双栏](./preview-simple.png)
+
 ## Intro
-主题为 MarkEditor 2.0 制作。个人测试版本为：1.9.9.1（ 即 2.0.6.7）。
-本主题使用字体：Monaco，可自行安装。
+主题为 MarkEditor 2.0 制作。个人测试版本为：1.9.9.1（ 即 2.0.6.7）。  
+本主题使用字体：Monaco，可自行安装。  
 主题使用方法：[如何应用一个视觉主题](https://we.markeditor.com/post/how-to-use-a-gui-theme#main)
 
 ## Reference
